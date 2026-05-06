@@ -16,6 +16,7 @@ FORMAT:
 {{
   "root_cause": "one clear sentence",
   "business_impact": "one clear sentence",
+  "severity": "High/Medium/Low",
   "suggested_fix": ["step 1", "step 2"],
   "owner_team": "UI/Frontend Team or Backend/API Team or Platform/MPM Team"
 }}
